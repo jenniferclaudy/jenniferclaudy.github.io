@@ -110,36 +110,13 @@
 	width: 25%;
 }
 
-#text-desc {
-        position: absolute;
-        width: 100%;
-        text-align: center;
-        bottom: 0;
-        left: 0;
-        display:flex;
-        justify-content: space-between;
-        padding-top: 2%;
-    }
-    .grid-item p {
-        padding: 0;
-    }
-    .grid-item:hover #text-desc {
-	opacity: 1;
-    }
-
-    .grid-item:hover p {
-	opacity: 1;
-    }
-    
 @media screen and (max-width: 480px) {
 	.grid-item p {
 		padding: 20px;
 	}
-	
 	.subscribe-btn {
 		padding-top: 2.5px !important;
 	}
-	
 	.magazine-3-3 {
 		display: block;
 		padding-top: 10vh;
@@ -153,16 +130,4 @@
 	.text-grid {
 		height: 40vw;
 	}
-	
-	.grid-item {
-    height: 30vh;
-  }
-
-  .text-grid p {
-    padding: 2vh !important;
-  }
-  
-  .grid-item #text-desc {
-	  opacity: 1;
-    }
 }

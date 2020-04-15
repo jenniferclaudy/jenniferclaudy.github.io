@@ -6,17 +6,3 @@
 	text-align: left !important;
 	font-size: 50px;
 }
-
-.text-grid {
-    padding-top: 20vh;
-    padding-bottom: 20px;
-    font-size: 30px;
-    height: 20;
-    background-position: center;
-    text-align: center;
-    background-color: #ed9c9d;
-    padding-top: 10vh;
-}
-#grid-item a h2 {
-    color:white;
-}
