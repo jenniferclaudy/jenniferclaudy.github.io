@@ -86,6 +86,22 @@
 	width: 120px;
 }
 
+#text-desc {
+  position: absolute;
+  width: 100%;
+  text-align: left;
+  bottom: 0;
+  left: 0;
+  font-family: titleBold;
+  color:white;
+  padding-top: 2%;
+}
+
+.grid-item p {
+  padding: 0;
+}
+
+
 @font-face {
 	font-family: menufont;
 	src: url(../font/gt-walsheim-regular.ttf);
@@ -121,4 +137,12 @@
 		font-size: 30px !important;
 		margin: 0;
 	}
+	
+	.grid-item {
+    font-size: 20px;
+  }
+  
+  .eyes {
+    padding:0 !important;
+  }
 }
