@@ -12,7 +12,6 @@
 }
 
 .grid-item {
-	background-image: url('https://themindmap.co.uk/wp-content/uploads/2020/01/DSC06391-1.jpg');
 	padding: 20px;
 	font-size: 30px;
 	height: 20vw;
@@ -22,10 +21,6 @@
 
 .grid-item:hover p {
 	opacity: 1;
-}
-
-.item2 {
-	background-image: url('https://themindmap.co.uk/wp-content/uploads/2020/01/DSC06442-1.jpg');
 }
 
 .grid-item p {

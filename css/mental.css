@@ -6,7 +6,6 @@
 }
 
 .grid-item {
-	background-image: url('https://themindmap.co.uk/wp-content/uploads/2020/01/DSC06391-1.jpg');
 	padding: 20px;
 	font-size: 30px;
 	height: 25vw;
@@ -38,10 +37,6 @@
 	font-family: menufont;
 	font-size: 40px;
 	color: white;
-}
-
-.item2 {
-	background-image: url('https://themindmap.co.uk/wp-content/uploads/2020/01/DSC06442-1.jpg');
 }
 
 .grid-item p {
